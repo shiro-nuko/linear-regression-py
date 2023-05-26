@@ -6,7 +6,9 @@ Tested with Python 3.11.3 on both Windows 10 22H2 and Arch Linux
 
 ## Usage
 
+```bash
 python ./src/regressao.py <steps> <learning_rate>
+```
 
 ### Defaults (っ◕‿◕)っ
 
